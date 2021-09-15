@@ -32,5 +32,4 @@ app.use('/articles',articleRouter)
 
 app.listen(3000)
 
-//EbZYwhzpkhDT6ZXx
-//mongodb+srv://shre19:<password>@cluster0.rlbnd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
